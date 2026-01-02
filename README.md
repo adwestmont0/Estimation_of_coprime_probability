@@ -1,4 +1,4 @@
-# Estimation of Coprime Probability
+`# Estimation of Coprime Probability
 
 This project estimates the probability that two randomly chosen integers are coprime using Monte Carlo simulation.
 
